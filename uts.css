@@ -1,0 +1,99 @@
+body {
+	top: 100px;
+	background-color: #FFCC66;
+}
+
+.der {
+	background-color:#CCCCCC;
+	list-style: none;
+	text-align: center;
+	padding: 4px 0px;
+	width: 100%;
+	
+}
+
+.btn {
+	width: auto;
+	padding: 12px 10px;
+}
+
+.der li {
+	display: inline-block;
+	padding: 0 25px 0px 25px;
+
+}
+.der  li  a {
+	text-decoration: none;
+	color: #000000;
+
+}
+.der  li  a:hover {
+	color: #1B3280;
+	background-color: #fefefe;
+}
+.der  li  a {
+	font-size: 20px;
+}
+
+.logo {
+	position: relative;
+	width: 60px;
+	height: 60px;
+	left: 20px;
+}
+
+.log {
+	position: absolute;
+	top: -5px;
+	left: 100px
+}
+.h {
+	list-style: none;
+	text-align: center;
+	padding: 0px 8px;
+	width: 98%;
+}
+.uu {
+	list-style: none;
+	text-align: center;
+	padding: 0px 8px;
+	width: 98%;
+}
+.j {
+	list-style: none;
+	text-align: center;
+	padding: 0px 8px;
+	width: 98%;
+}
+.sa {
+	list-style: none;
+	text-align: center;
+	padding: 0px 8px;
+	width: 98%;
+}
+.lihat {
+	position: absolute;
+	top: -5px;
+	right: 50px;
+	list-style: none;
+}
+.lihat{
+	display: inline-block;
+	padding: 0 25px 0px 25px;
+
+}
+.lihat{
+	text-decoration: none;
+	color: #000000;
+
+}
+.lihat :hover {
+	color: #1B3280;
+	background-color: #fefefe;
+}
+.nn {
+	list-style: none;
+	text-align: center;
+	padding: 0px 8px;
+	width: 98%;
+}
